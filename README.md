@@ -19,7 +19,7 @@
 
 ## 🚀 프로젝트 포트폴리오
 
-1)**<API 전문 개발자 지원 AI 플랫폼>**  
+1) **<API 전문 개발자 지원 AI 플랫폼>**  
 - 스택: Python, LangChain, Langgraph, Qwen3-8b, Chroma, Django(HTML,CSS,JS), Docker, Aws(elastic beanstalk), Github Action
 - 레포지토리: <프로젝트 진행중>
 - 데모: <프로젝트 진행중>
@@ -29,7 +29,7 @@
 - 레포지토리: <https://github.com/jmy0913/jembot_django_project>
 - 데모: <https://www.youtube.com/watch?v=Dd6SCocLpJo> 
 
-3)**<기업 분석 RAG 챗봇(streamlit) ver1>**  
+3) **<기업 분석 RAG 챗봇(streamlit) ver1>**  
 - 스택: Python, LangChain, FAISS, Streamlit
 - 레포지토리: <https://github.com/jmy0913/jembot_streamlit_project>
 - 데모: <https://youtu.be/g2u1r_mvlys?si=O3E0sFBk2eSky48G>
