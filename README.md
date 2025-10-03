@@ -8,13 +8,17 @@
 - 📄 이력서:
 ---
 
-## 🔎 한 줄 소개 (What I can do)
-- **LLM 애플리케이션**: Langgraph, Langchain, OpenAI
-- **서빙/운영**: vLLM, Runpod, Docker, Nginx/Gunicorn, AWS(EC2/EB), Github Actions(자동 배포)
-- **백엔드**: Python, FastAPI, Django
-- **Database**: RDB(mysql), Vectordb(faiss, chroma, pinecone)
-- **데이터분석**: Pandas, Numpy, Matplotlib, Seaborn
-- **프론트엔드**: Html5, css, javascript
+## 🔎 기술 스택(What I can do)
+- **LLM**: openai, perplexity, qwen, llama, finetuning(LORA)
+- **Orchestration**, langgraph, langchain
+- **Serving**: vllm, runpod, huggingface
+- **DeepLearning**: pytorch, tensorflow
+- **MachineLearning**: scikit-learn
+- **Frontend**: html, javascript, css, streamlit
+- **Backend**: FastAPI, Django
+- **Database**: RDB(mysql). Vectordb(chroma, faiss, pinecone)
+- **Infra/DevOps**: Docker, Nginx, Gunicorn, AWS(EC2, EB, S3, Route53), GitHub Actions
+- **Data preprocessing**: Pandas, Numpy, Matplotlib, Seaborn
 
 ---
 
@@ -39,20 +43,6 @@
 - 스택: Python, scikit-learn, Gemini API, Streamlit
 - 레포지토리: <https://github.com/jmy0913/SKN14-2nd-3Team1>
 - 데모: <https://youtu.be/ykYhSbUtJSw?si=LP4pGDra4e-BDLtV>
-
----
-
-## 🛠 기술 스택
-- **LLM**: openai, perplexity, qwen, llama, finetuning(LORA)
-- **Orchestration**, langgraph, langchain
-- **Serving**: vllm, runpod, huggingface
-- **DeepLearning**: pytorch, tensorflow
-- **MachineLearning**: scikit-learn
-- **Frontend**: html, javascript, css, streamlit
-- **Backend**: FastAPI, Django
-- **Database**: RDB(mysql). Vectordb(chroma, faiss, pinecone)
-- **Infra/DevOps**: Docker, Nginx, Gunicorn, AWS(EC2, EB, S3, Route53), GitHub Actions
-- **Data preprocessing**: Pandas, Numpy, Matplotlib, Seaborn
 
 ---
 
