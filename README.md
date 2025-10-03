@@ -9,10 +9,11 @@
 ---
 
 ## 🔎 한 줄 소개 (What I can do)
-- **LLM 애플리케이션**: RAG, 프롬프트/툴 사용
-- **서빙/운영**: vLLM, FastAPI, Docker, Nginx/Gunicorn, AWS(EC2/EB), Github Actions(자동 배포)
-- **백엔드**: Python, Django, MySQL
-- **데이터분석**: Pandas, Numpy
+- **LLM 애플리케이션**: Langgraph, Langchain, OpenAI
+- **서빙/운영**: vLLM, Runpod, Docker, Nginx/Gunicorn, AWS(EC2/EB), Github Actions(자동 배포)
+- **백엔드**: Python, FastAPI, Django
+- **Database**: RDB(mysql), Vectordb(faiss, chroma, pinecone)
+- **데이터분석**: Pandas, Numpy, Matplotlib, Seaborn
 - **프론트엔드**: Html5, css, javascript
 
 ---
@@ -25,18 +26,18 @@
 - 데모: https://www.youtube.com/watch?v=YZnAioNsNyo
 
 2) **<기업 분석 RAG 챗봇(django) ver2>**  
-- 스택: Python, LangChain, Langgraph, FAISS, Django(HTML,CSS,JS), Docker, Aws(ec2)
-- 레포지토리: <https://github.com/jmy0913/jembot_django_project>
+- 스택: Python, OpenAI, LangChain, Langgraph, FAISS, Django(HTML,CSS,JS), Docker, Aws(ec2)
+- 레포지토리: <https://github.com/jmy0913/SKN14-4th-2team_final>
 - 데모: <https://www.youtube.com/watch?v=Dd6SCocLpJo> 
 
-3) **<기업 분석 RAG 챗봇(streamlit) ver1>**  
-- 스택: Python, LangChain, FAISS, Streamlit
-- 레포지토리: <https://github.com/jmy0913/jembot_streamlit_project>
+3) **<기업 분석 RAG 챗봇(streamlit) ver1>** 
+- 스택: Python, OpenAI, LangChain, FAISS, Streamlit
+- 레포지토리: <https://github.com/jmy0913/SKN14-3rd-2Team_final>
 - 데모: <https://youtu.be/g2u1r_mvlys?si=O3E0sFBk2eSky48G>
 
-4) **<E-commerce 고객 이탈 예측 서비스>**  
+4) **<E-commerce 고객 이탈 예측 서비스>** 
 - 스택: Python, scikit-learn, Gemini API, Streamlit
-- 레포지토리: <https://github.com/jmy0913/E-coomerce_churn_prediction_project>
+- 레포지토리: <https://github.com/jmy0913/SKN14-2nd-3Team1>
 - 데모: <https://youtu.be/ykYhSbUtJSw?si=LP4pGDra4e-BDLtV>
 
 ---
