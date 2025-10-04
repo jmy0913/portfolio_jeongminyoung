@@ -5,8 +5,8 @@
 - 📍 거주지: 서울시 서초구
 - ✉️ 이메일: <jmy09131@gmail.com>
 - 💼 LinkedIn: <https://www.linkedin.com/in/%EB%AF%BC%EC%98%81-%EC%A0%95-05a1a3328/>
-- 📄 이력서:[정민영의 이력서 입니다_miny0913.pdf](../../Users/miny0/Downloads/%EC%A0%95%EB%AF%BC%EC%98%81%EC%9D%98%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%9E%85%EB%8B%88%EB%8B%A4_miny0913.pdf)
-- 📄 자기소개서:[정민영_자기소개서_251004_15_37.pdf](../../Users/miny0/Downloads/%EC%A0%95%EB%AF%BC%EC%98%81_%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C_251004_15_37.pdf)
+- 📄 이력서: [정민영의 이력서 입니다_miny0913.pdf](../../Users/miny0/Downloads/%EC%A0%95%EB%AF%BC%EC%98%81%EC%9D%98%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%9E%85%EB%8B%88%EB%8B%A4_miny0913.pdf)
+- 📄 자기소개서: [정민영_자기소개서_251004_15_37.pdf](../../Users/miny0/Downloads/%EC%A0%95%EB%AF%BC%EC%98%81_%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C_251004_15_37.pdf)
 ---
 
 ## 🔎 기술 스택(What I can do)
