@@ -11,7 +11,7 @@
 
 ## 🔎 기술 스택(What I can do)
 - **LLM**: openai, perplexity, qwen, llama, finetuning(LORA)
-- **Orchestration**, langgraph, langchain
+- **Orchestration**: langgraph, langchain
 - **Serving**: vllm, runpod, huggingface
 - **DeepLearning**: pytorch, tensorflow
 - **MachineLearning**: scikit-learn
