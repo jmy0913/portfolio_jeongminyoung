@@ -31,7 +31,7 @@
 - 데모: https://www.youtube.com/watch?v=YZnAioNsNyo
 
 2) **<기업 분석 RAG 챗봇(django) ver2>**  
-- 스택: Python, OpenAI, LangChain, Langgraph, FAISS, Django(HTML,CSS,JS), Docker, Aws(ec2)
+- 스택: Python, OpenAI, LangChain, Langgraph, FAISS, Django(HTML,CSS,JS), Docker, Aws(ec2), Mysql
 - 레포지토리: <https://github.com/jmy0913/SKN14-4th-2team_final>
 - 데모: <https://www.youtube.com/watch?v=Dd6SCocLpJo> 
 
